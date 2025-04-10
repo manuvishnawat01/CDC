@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
