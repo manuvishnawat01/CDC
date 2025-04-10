@@ -28,11 +28,13 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
