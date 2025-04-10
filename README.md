@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
