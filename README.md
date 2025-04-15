@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manuvishnawat01/CDC/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/manuvishnawat01/CDC/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/manuvishnawat01/CDC/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
