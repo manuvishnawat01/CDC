@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/manuvishnawat01/CDC/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manuvishnawat01/CDC/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
@@ -41,6 +42,7 @@
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/manuvishnawat01/CDC/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manuvishnawat01/CDC/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 ## Recursion
