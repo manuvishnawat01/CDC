@@ -29,6 +29,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -46,12 +47,14 @@
 | [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
