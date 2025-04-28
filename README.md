@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manuvishnawat01/CDC/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@
 | [0027-remove-element](https://github.com/manuvishnawat01/CDC/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0035-search-insert-position](https://github.com/manuvishnawat01/CDC/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manuvishnawat01/CDC/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [0016-3sum-closest](https://github.com/manuvishnawat01/CDC/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manuvishnawat01/CDC/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
 |  |
