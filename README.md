@@ -46,6 +46,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
