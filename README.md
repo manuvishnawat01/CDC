@@ -44,6 +44,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
