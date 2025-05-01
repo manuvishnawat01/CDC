@@ -37,6 +37,7 @@
 | [0027-remove-element](https://github.com/manuvishnawat01/CDC/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@
 | [0009-palindrome-number](https://github.com/manuvishnawat01/CDC/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manuvishnawat01/CDC/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
@@ -152,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
