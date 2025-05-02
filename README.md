@@ -75,6 +75,7 @@
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/manuvishnawat01/CDC/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
@@ -135,6 +136,7 @@
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
