@@ -57,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
@@ -72,6 +73,7 @@
 | [0069-sqrtx](https://github.com/manuvishnawat01/CDC/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
