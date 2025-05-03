@@ -28,6 +28,7 @@
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
