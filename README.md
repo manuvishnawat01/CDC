@@ -86,6 +86,7 @@
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/manuvishnawat01/CDC/tree/master/0507-perfect-number) |
+| [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -198,4 +199,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/manuvishnawat01/CDC/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
