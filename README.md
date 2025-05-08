@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
@@ -188,6 +189,7 @@
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
 |  |
