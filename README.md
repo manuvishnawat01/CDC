@@ -78,6 +78,7 @@
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
+| [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
