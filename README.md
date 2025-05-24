@@ -113,6 +113,7 @@
 | [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
