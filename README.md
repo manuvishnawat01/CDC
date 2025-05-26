@@ -115,6 +115,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0728-self-dividing-numbers) |
+| [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -126,6 +127,7 @@
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -133,6 +135,7 @@
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
