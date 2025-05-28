@@ -105,6 +105,7 @@
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/manuvishnawat01/CDC/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
