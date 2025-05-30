@@ -47,6 +47,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/manuvishnawat01/CDC/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Ordered Set
 |  |
 | ------- |
