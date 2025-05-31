@@ -27,6 +27,7 @@
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manuvishnawat01/CDC/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +242,7 @@
 | [0012-integer-to-roman](https://github.com/manuvishnawat01/CDC/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
