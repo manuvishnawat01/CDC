@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
@@ -85,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 ## Math
 |  |
