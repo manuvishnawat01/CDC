@@ -133,6 +133,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/manuvishnawat01/CDC/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manuvishnawat01/CDC/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/manuvishnawat01/CDC/tree/master/2383-add-two-integers) |
