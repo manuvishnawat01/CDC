@@ -137,6 +137,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manuvishnawat01/CDC/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/manuvishnawat01/CDC/tree/master/2383-add-two-integers) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/manuvishnawat01/CDC/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/manuvishnawat01/CDC/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Tree
 |  |
 | ------- |
