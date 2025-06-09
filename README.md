@@ -32,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manuvishnawat01/CDC/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0334-increasing-triplet-subsequence) |
@@ -69,6 +70,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
