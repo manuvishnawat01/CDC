@@ -55,6 +55,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
+| [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
@@ -179,6 +180,7 @@
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
