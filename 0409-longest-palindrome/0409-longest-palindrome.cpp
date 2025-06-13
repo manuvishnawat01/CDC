@@ -10,7 +10,7 @@ public:
             else    
                 oddCount--;
         }
-        if (oddCount >= 1)
+        if (oddCount > 1)
             return s.length() - oddCount + 1;
         return s.length();
     }
