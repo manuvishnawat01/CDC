@@ -163,6 +163,7 @@
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/manuvishnawat01/CDC/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
