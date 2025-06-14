@@ -174,6 +174,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manuvishnawat01/CDC/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/manuvishnawat01/CDC/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -364,4 +365,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/manuvishnawat01/CDC/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
