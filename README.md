@@ -244,6 +244,7 @@
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/manuvishnawat01/CDC/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
