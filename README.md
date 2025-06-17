@@ -75,6 +75,7 @@
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
@@ -243,6 +244,7 @@
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/manuvishnawat01/CDC/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
