@@ -247,6 +247,7 @@
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
+| [0290-word-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/manuvishnawat01/CDC/tree/master/0520-detect-capital) |
@@ -284,6 +285,7 @@
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
