@@ -23,6 +23,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manuvishnawat01/CDC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manuvishnawat01/CDC/tree/master/0162-find-peak-element) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manuvishnawat01/CDC/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/manuvishnawat01/CDC/tree/master/0278-first-bad-version) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
