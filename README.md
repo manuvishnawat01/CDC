@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/manuvishnawat01/CDC/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manuvishnawat01/CDC/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -221,6 +222,7 @@
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manuvishnawat01/CDC/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manuvishnawat01/CDC/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
