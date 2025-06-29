@@ -139,6 +139,7 @@
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
+| [0492-construct-the-rectangle](https://github.com/manuvishnawat01/CDC/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/manuvishnawat01/CDC/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
