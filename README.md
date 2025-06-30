@@ -48,6 +48,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
@@ -110,6 +111,7 @@
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
