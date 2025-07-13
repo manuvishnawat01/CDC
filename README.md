@@ -349,14 +349,17 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Queue
 |  |
@@ -403,4 +406,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
