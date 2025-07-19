@@ -88,6 +88,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manuvishnawat01/CDC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
@@ -240,6 +243,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
