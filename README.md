@@ -43,6 +43,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
@@ -208,6 +209,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/manuvishnawat01/CDC/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
@@ -224,6 +226,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -400,6 +403,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -420,6 +424,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 ## Sliding Window
 |  |
@@ -445,4 +450,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
