@@ -114,6 +114,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manuvishnawat01/CDC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/manuvishnawat01/CDC/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manuvishnawat01/CDC/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
@@ -159,6 +160,7 @@
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/manuvishnawat01/CDC/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
@@ -439,6 +441,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
 ## Interactive
 |  |
