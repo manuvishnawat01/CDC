@@ -51,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
+| [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/manuvishnawat01/CDC/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -268,6 +269,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/manuvishnawat01/CDC/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
@@ -463,8 +465,10 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
