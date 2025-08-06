@@ -305,6 +305,7 @@
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
@@ -349,6 +350,7 @@
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -407,6 +409,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Heap (Priority Queue)
 |  |
@@ -432,6 +435,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Ordered Set
