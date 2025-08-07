@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/manuvishnawat01/CDC/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manuvishnawat01/CDC/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manuvishnawat01/CDC/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
