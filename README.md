@@ -270,6 +270,7 @@
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manuvishnawat01/CDC/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -305,6 +306,7 @@
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/manuvishnawat01/CDC/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
@@ -349,6 +351,7 @@
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manuvishnawat01/CDC/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0349-intersection-of-two-arrays) |
