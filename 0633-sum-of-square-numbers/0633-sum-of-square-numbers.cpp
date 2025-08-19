@@ -1,20 +1,24 @@
 class Solution {
 public:
+    bool isperfect(int n){
+        int root = sqrt(n);
+        if(root*root==n)  return true;
+        else return false;
+    }
     bool judgeSquareSum(int c) {
-        long long a = 0;
-        long long b = sqrt(c);
-        while(a <= b){
-            if(a*a + b*b == c){
-                return true;
-            }
-            else if(a*a + b*b > c){
-                b--;
-            }
-            else{
-                a++;
-            }
+        int x = 0;
+        int y = c;
+        while(x<=y){
+        if(isperfect(x) && isperfect(y))  return true;
+        else if(!isperfect(y)){
+            y = (int)sqrt(y)*(int)sqrt(y);
+            x = c-y;
         }
-        return false; 
-
+        else{
+            x = ((int)sqrt(x)+1)*((int)sqrt(x)+1);
+            y = c-x;
+        }
+        }
+    return false;
     }
 };
