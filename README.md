@@ -80,6 +80,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -234,6 +235,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/manuvishnawat01/CDC/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
+| [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
 ## Divide and Conquer
 |  |
 | ------- |
