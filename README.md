@@ -34,6 +34,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/manuvishnawat01/CDC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manuvishnawat01/CDC/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/manuvishnawat01/CDC/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
@@ -272,6 +274,7 @@
 | [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manuvishnawat01/CDC/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/0229-majority-element-ii) |
@@ -355,6 +358,7 @@
 | [0012-integer-to-roman](https://github.com/manuvishnawat01/CDC/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/manuvishnawat01/CDC/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
@@ -449,6 +453,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0387-first-unique-character-in-a-string) |
