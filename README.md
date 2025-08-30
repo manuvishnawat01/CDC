@@ -84,6 +84,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -199,6 +200,7 @@
 | [2383-add-two-integers](https://github.com/manuvishnawat01/CDC/tree/master/2383-add-two-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manuvishnawat01/CDC/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
