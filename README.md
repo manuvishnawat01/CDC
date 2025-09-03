@@ -178,6 +178,7 @@
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/manuvishnawat01/CDC/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/manuvishnawat01/CDC/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
@@ -520,4 +521,8 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/manuvishnawat01/CDC/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
