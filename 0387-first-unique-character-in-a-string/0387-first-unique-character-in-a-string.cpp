@@ -1,13 +1,19 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char,int> m;
-        for(auto ch : s){
-            m[ch]++;
+        int n=s.length();
+        for(int i=0;i<n;i++){
+            bool flag=true;
+            for(int j=0;j<n;j++){
+                if(i!=j && s[i]==s[j]){
+                    flag=false;
+                    break;
+                }
+            }
+            if(flag){
+                return i;
+            }
         }
-        for(int i =0; i<s.size(); i++){
-            if(m[s[i]] == 1) return i;
-        }
-     return -1;
+         return -1;
     }
 };
