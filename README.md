@@ -368,6 +368,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [3636-check-balanced-string](https://github.com/manuvishnawat01/CDC/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -504,6 +506,7 @@
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Ordered Set
 |  |
 | ------- |
