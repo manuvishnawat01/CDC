@@ -96,6 +96,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3582-find-indices-of-stable-mountains](https://github.com/manuvishnawat01/CDC/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manuvishnawat01/CDC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manuvishnawat01/CDC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
