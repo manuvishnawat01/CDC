@@ -87,6 +87,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/manuvishnawat01/CDC/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
