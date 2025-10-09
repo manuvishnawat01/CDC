@@ -99,6 +99,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
+| [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
@@ -353,6 +354,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
+| [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
@@ -400,6 +402,7 @@
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manuvishnawat01/CDC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [3636-check-balanced-string](https://github.com/manuvishnawat01/CDC/tree/master/3636-check-balanced-string) |
@@ -457,6 +460,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
+| [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/3206-find-common-elements-between-two-arrays) |
