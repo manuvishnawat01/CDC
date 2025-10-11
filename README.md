@@ -43,6 +43,7 @@
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/manuvishnawat01/CDC/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/manuvishnawat01/CDC/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/manuvishnawat01/CDC/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/manuvishnawat01/CDC/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/manuvishnawat01/CDC/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
@@ -267,6 +268,7 @@
 | [0069-sqrtx](https://github.com/manuvishnawat01/CDC/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manuvishnawat01/CDC/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/manuvishnawat01/CDC/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/manuvishnawat01/CDC/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
@@ -310,6 +312,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manuvishnawat01/CDC/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manuvishnawat01/CDC/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
@@ -567,6 +570,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manuvishnawat01/CDC/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
