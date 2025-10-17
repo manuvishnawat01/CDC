@@ -3,12 +3,15 @@ public:
     int maxArea(vector<int>& height) {
         int left = 0;
         int right = height.size() - 1;
-        int maxArea = 0;
+        int maxi = 0;
 
         while (left < right) {
-            int currentArea = min(height[left], height[right]) * (right - left);
-            maxArea = max(maxArea, currentArea);
+            int width = right - left;
+            int h = min(height[left], height[right]);
+            int area = width * h;
+            maxi = max(maxi, area);
 
+            // Move the pointer with smaller height
             if (height[left] < height[right]) {
                 left++;
             } else {
@@ -16,6 +19,6 @@ public:
             }
         }
 
-        return maxArea;
+        return maxi;
     }
 };
