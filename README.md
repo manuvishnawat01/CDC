@@ -186,6 +186,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -193,6 +194,7 @@
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -499,6 +501,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -625,4 +628,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/manuvishnawat01/CDC/tree/master/0319-bulb-switcher) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
