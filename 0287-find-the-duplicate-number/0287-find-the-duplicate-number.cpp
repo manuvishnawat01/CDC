@@ -1,21 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
+        int n = nums.size() - 1;
+        int duplicate = 0;
+        for (int bit = 0; bit < 32; bit++) {
+            int mask = 1 << bit;
+            int countNums = 0, countRange = 0;
 
-        sort(nums.begin(), nums.end());
-
-        int i = 0;
-
-        for(int j=1; j<n; j++){
-            if(nums[i] != nums[j]){
-                i++;
-
+            for (int num : nums) {
+                if (num & mask) countNums++;
             }
-            else{
-                return nums[i];
+
+            for (int i = 1; i <= n; i++) {
+                if (i & mask) countRange++;
             }
+            if (countNums > countRange)
+                duplicate |= mask;
         }
-        return 1;
+        return duplicate;
     }
 };
