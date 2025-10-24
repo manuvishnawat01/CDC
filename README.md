@@ -82,6 +82,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manuvishnawat01/CDC/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -192,6 +193,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -200,6 +202,7 @@
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 ## Math
 |  |
@@ -376,6 +379,7 @@
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
@@ -535,6 +539,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/manuvishnawat01/CDC/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/manuvishnawat01/CDC/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
