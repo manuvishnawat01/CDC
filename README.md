@@ -104,6 +104,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manuvishnawat01/CDC/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -391,6 +392,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
@@ -549,6 +551,7 @@
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 ## Geometry
