@@ -142,6 +142,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
@@ -424,6 +425,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manuvishnawat01/CDC/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/manuvishnawat01/CDC/tree/master/0205-isomorphic-strings) |
