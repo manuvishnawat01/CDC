@@ -272,6 +272,7 @@
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manuvishnawat01/CDC/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
@@ -361,6 +362,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manuvishnawat01/CDC/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
