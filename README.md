@@ -115,6 +115,7 @@
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/manuvishnawat01/CDC/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -534,6 +535,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/manuvishnawat01/CDC/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
@@ -599,6 +601,7 @@
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/manuvishnawat01/CDC/tree/master/1127-last-stone-weight) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/manuvishnawat01/CDC/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
