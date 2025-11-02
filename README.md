@@ -151,6 +151,7 @@
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manuvishnawat01/CDC/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0345-reverse-vowels-of-a-string) |
@@ -202,6 +203,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/manuvishnawat01/CDC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
@@ -277,6 +279,7 @@
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manuvishnawat01/CDC/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
@@ -369,6 +372,7 @@
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/manuvishnawat01/CDC/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
