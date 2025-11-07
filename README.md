@@ -21,6 +21,7 @@
 | [0040-combination-sum-ii](https://github.com/manuvishnawat01/CDC/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manuvishnawat01/CDC/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/manuvishnawat01/CDC/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manuvishnawat01/CDC/tree/master/0055-jump-game) |
@@ -400,6 +401,7 @@
 | [0015-3sum](https://github.com/manuvishnawat01/CDC/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manuvishnawat01/CDC/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manuvishnawat01/CDC/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manuvishnawat01/CDC/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
@@ -463,6 +465,7 @@
 | [0022-generate-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/manuvishnawat01/CDC/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
@@ -523,6 +526,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manuvishnawat01/CDC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manuvishnawat01/CDC/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/manuvishnawat01/CDC/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/manuvishnawat01/CDC/tree/master/0141-linked-list-cycle) |
