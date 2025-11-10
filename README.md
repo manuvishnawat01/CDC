@@ -277,6 +277,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/manuvishnawat01/CDC/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manuvishnawat01/CDC/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/manuvishnawat01/CDC/tree/master/1965-sum-of-digits-in-base-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/manuvishnawat01/CDC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/manuvishnawat01/CDC/tree/master/2383-add-two-integers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -579,6 +580,7 @@
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manuvishnawat01/CDC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/manuvishnawat01/CDC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
