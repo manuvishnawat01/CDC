@@ -630,6 +630,7 @@
 | [0100-same-tree](https://github.com/manuvishnawat01/CDC/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -643,6 +644,7 @@
 | [0100-same-tree](https://github.com/manuvishnawat01/CDC/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
 ## Queue
 |  |
@@ -708,6 +710,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/manuvishnawat01/CDC/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
 ## Interactive
@@ -724,6 +727,7 @@
 | [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/manuvishnawat01/CDC/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
 ## Quickselect
 |  |
