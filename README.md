@@ -272,6 +272,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manuvishnawat01/CDC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
@@ -399,6 +400,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
