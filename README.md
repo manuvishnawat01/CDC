@@ -399,6 +399,7 @@
 | [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -598,6 +599,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/manuvishnawat01/CDC/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
+| [0838-design-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
