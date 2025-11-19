@@ -120,6 +120,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manuvishnawat01/CDC/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -451,6 +452,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
@@ -577,6 +579,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -592,6 +595,7 @@
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manuvishnawat01/CDC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manuvishnawat01/CDC/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
