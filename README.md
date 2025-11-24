@@ -97,6 +97,7 @@
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manuvishnawat01/CDC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/manuvishnawat01/CDC/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
@@ -325,6 +326,7 @@
 | [0389-find-the-difference](https://github.com/manuvishnawat01/CDC/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/manuvishnawat01/CDC/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manuvishnawat01/CDC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manuvishnawat01/CDC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
