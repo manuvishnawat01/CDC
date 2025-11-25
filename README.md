@@ -283,6 +283,7 @@
 | [0728-self-dividing-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
@@ -586,6 +587,7 @@
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/manuvishnawat01/CDC/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
