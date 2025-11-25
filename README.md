@@ -107,6 +107,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -236,6 +237,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
+| [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -609,6 +611,7 @@
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
+| [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manuvishnawat01/CDC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manuvishnawat01/CDC/tree/master/2288-count-operations-to-obtain-zero) |
