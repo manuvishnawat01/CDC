@@ -428,6 +428,7 @@
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -686,6 +687,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -713,6 +715,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -811,6 +814,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
