@@ -115,6 +115,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manuvishnawat01/CDC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
@@ -408,6 +409,7 @@
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
+| [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -607,6 +609,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
