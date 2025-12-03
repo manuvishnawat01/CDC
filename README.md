@@ -96,6 +96,7 @@
 | [0917-boats-to-save-people](https://github.com/manuvishnawat01/CDC/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manuvishnawat01/CDC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
@@ -242,6 +243,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -252,6 +254,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -701,6 +704,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manuvishnawat01/CDC/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
@@ -714,6 +718,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manuvishnawat01/CDC/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -741,6 +746,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manuvishnawat01/CDC/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
 ## Queue
