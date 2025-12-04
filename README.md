@@ -706,6 +706,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -720,6 +721,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manuvishnawat01/CDC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -748,6 +750,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -856,6 +859,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manuvishnawat01/CDC/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
