@@ -145,6 +145,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/manuvishnawat01/CDC/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -312,6 +313,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manuvishnawat01/CDC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -419,6 +421,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
