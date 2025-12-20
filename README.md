@@ -95,6 +95,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/manuvishnawat01/CDC/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manuvishnawat01/CDC/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/manuvishnawat01/CDC/tree/master/0917-boats-to-save-people) |
+| [0944-delete-columns-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -553,6 +554,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
