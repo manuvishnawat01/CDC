@@ -488,6 +488,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/manuvishnawat01/CDC/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
@@ -554,6 +555,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -625,6 +627,7 @@
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
