@@ -13,9 +13,8 @@ public:
             mp[c] = 0;
         }
 
-        for(char c : s){
-            if(mp[c] > 0) ans = ans+c;
-        }
+        for(char c : s)  if(mp[c] > 0)  ans = ans+c;
+        
         return ans;
     }
 };
