@@ -928,4 +928,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/manuvishnawat01/CDC/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
