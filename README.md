@@ -91,6 +91,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manuvishnawat01/CDC/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manuvishnawat01/CDC/tree/master/0907-koko-eating-bananas) |
@@ -225,6 +226,7 @@
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -382,6 +384,7 @@
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/manuvishnawat01/CDC/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/manuvishnawat01/CDC/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
@@ -489,6 +492,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/manuvishnawat01/CDC/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
@@ -556,6 +560,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -577,6 +582,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -628,6 +634,7 @@
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
