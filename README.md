@@ -113,6 +113,7 @@
 | [1287-distance-between-bus-stops](https://github.com/manuvishnawat01/CDC/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/manuvishnawat01/CDC/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/manuvishnawat01/CDC/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
@@ -313,6 +314,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
+| [1390-four-divisors](https://github.com/manuvishnawat01/CDC/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manuvishnawat01/CDC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
