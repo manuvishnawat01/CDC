@@ -164,6 +164,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/manuvishnawat01/CDC/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manuvishnawat01/CDC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manuvishnawat01/CDC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -449,6 +450,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manuvishnawat01/CDC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
 ## Linked List
 |  |
 | ------- |
