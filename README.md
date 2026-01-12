@@ -110,6 +110,7 @@
 | [1127-last-stone-weight](https://github.com/manuvishnawat01/CDC/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/manuvishnawat01/CDC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/manuvishnawat01/CDC/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/manuvishnawat01/CDC/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -315,6 +316,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/manuvishnawat01/CDC/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/manuvishnawat01/CDC/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/manuvishnawat01/CDC/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/manuvishnawat01/CDC/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/manuvishnawat01/CDC/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manuvishnawat01/CDC/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -737,6 +739,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/manuvishnawat01/CDC/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/manuvishnawat01/CDC/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manuvishnawat01/CDC/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Tree
 |  |
