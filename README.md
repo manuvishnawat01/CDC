@@ -257,6 +257,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/manuvishnawat01/CDC/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/manuvishnawat01/CDC/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
@@ -302,6 +303,7 @@
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/manuvishnawat01/CDC/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/manuvishnawat01/CDC/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
@@ -473,6 +475,7 @@
 | [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
 | [0817-design-hashmap](https://github.com/manuvishnawat01/CDC/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
