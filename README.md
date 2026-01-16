@@ -269,6 +269,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/manuvishnawat01/CDC/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manuvishnawat01/CDC/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -492,6 +494,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/manuvishnawat01/CDC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
