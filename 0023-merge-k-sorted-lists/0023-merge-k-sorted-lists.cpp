@@ -11,26 +11,31 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> values;
+
+        auto cmp = [](ListNode* a, ListNode* b){
+            return a->val > b->val;
+        };
+
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
 
         for(auto list : lists){
-            while(list){
-                values.push_back(list->val);
-                list=list->next;
+            if(list) pq.push(list);
+        }
+
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while(!pq.empty()){
+            ListNode* node = pq.top();
+            pq.pop();
+
+            tail->next = node;
+            tail = tail->next;
+
+            if(node->next){
+                pq.push(node->next);
             }
         }
-
-        if(values.empty()) return nullptr;
-
-        sort(values.begin(),values.end());
-
-        ListNode* head = new ListNode(values[0]);
-        ListNode* curr = head;
-
-        for(int i = 1; i<values.size(); i++){
-            curr->next = new ListNode(values[i]);
-            curr = curr->next;
-        }
-        return head;
+        return dummy.next;
     }
 };
