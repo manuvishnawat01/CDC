@@ -418,6 +418,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manuvishnawat01/CDC/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/manuvishnawat01/CDC/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -463,6 +464,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manuvishnawat01/CDC/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/manuvishnawat01/CDC/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/manuvishnawat01/CDC/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/manuvishnawat01/CDC/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manuvishnawat01/CDC/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -837,6 +839,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manuvishnawat01/CDC/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/manuvishnawat01/CDC/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/manuvishnawat01/CDC/tree/master/0347-top-k-frequent-elements) |
@@ -849,6 +852,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manuvishnawat01/CDC/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/manuvishnawat01/CDC/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
