@@ -187,6 +187,7 @@
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manuvishnawat01/CDC/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manuvishnawat01/CDC/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manuvishnawat01/CDC/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manuvishnawat01/CDC/tree/master/0160-intersection-of-two-linked-lists) |
@@ -473,6 +474,7 @@
 | [0086-partition-list](https://github.com/manuvishnawat01/CDC/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/manuvishnawat01/CDC/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manuvishnawat01/CDC/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/manuvishnawat01/CDC/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/manuvishnawat01/CDC/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/manuvishnawat01/CDC/tree/master/0148-sort-list) |
@@ -649,6 +651,7 @@
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/manuvishnawat01/CDC/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/manuvishnawat01/CDC/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manuvishnawat01/CDC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manuvishnawat01/CDC/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manuvishnawat01/CDC/tree/master/0202-happy-number) |
