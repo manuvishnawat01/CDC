@@ -204,6 +204,7 @@
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/manuvishnawat01/CDC/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
@@ -234,6 +235,7 @@
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
@@ -600,6 +602,7 @@
 | [0520-detect-capital](https://github.com/manuvishnawat01/CDC/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
+| [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
