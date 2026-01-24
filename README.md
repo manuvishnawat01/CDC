@@ -71,6 +71,7 @@
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
 | [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
+| [0416-partition-equal-subset-sum](https://github.com/manuvishnawat01/CDC/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/manuvishnawat01/CDC/tree/master/0436-find-right-interval) |
@@ -236,6 +237,7 @@
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/manuvishnawat01/CDC/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
