@@ -1,25 +1,28 @@
 class Solution {
 public:
-
-    int memoize(int start,int end ,vector<int>& nums) {
+   int robber(vector<int>& nums) {
         int n = nums.size();
-         if(start == end) return nums[start];
+        if(n == 0) return 0;
         if(n == 1) return nums[0];
 
-        int prev2= nums[start];
-        int prev1 = max(nums[start+1],nums[start]);
-        int cur = prev1;
-        for(int i = start+2 ; i <= end ; i++){
-        cur = max((nums[i] + prev2),prev1);
-        prev2 = prev1;
-        prev1 = cur;
+        int prev2 = nums[0];
+        int prev = max(nums[0], nums[1]);
+
+        for(int i = 2; i < n; i++) {
+            int curr = max(nums[i] + prev2, prev);
+            prev2 = prev;
+            prev = curr;
         }
-
-        return cur;
+        return prev;
     }
-
     int rob(vector<int>& nums) {
         int n = nums.size();
-        return max(memoize(0,n-2,nums), memoize(1,n-1,nums));
+        if(n == 1) return nums[0];
+
+        vector<int> a(nums.begin(),nums.end()-1);
+        int ans1 = robber(a);
+        vector<int> b(nums.begin()+1,nums.end());
+        int ans2 = robber(b);
+        return max(ans1,ans2);
     }
 };
