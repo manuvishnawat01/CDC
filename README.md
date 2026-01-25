@@ -236,6 +236,7 @@
 | [0213-house-robber-ii](https://github.com/manuvishnawat01/CDC/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/manuvishnawat01/CDC/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0392-is-subsequence) |
@@ -313,6 +314,7 @@
 | [0319-bulb-switcher](https://github.com/manuvishnawat01/CDC/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/manuvishnawat01/CDC/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
