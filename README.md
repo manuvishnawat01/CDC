@@ -82,6 +82,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@
 | [0392-is-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/manuvishnawat01/CDC/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
@@ -584,6 +586,7 @@
 | [0077-combinations](https://github.com/manuvishnawat01/CDC/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/manuvishnawat01/CDC/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
