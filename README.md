@@ -80,6 +80,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/manuvishnawat01/CDC/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/manuvishnawat01/CDC/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manuvishnawat01/CDC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
@@ -322,6 +323,7 @@
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manuvishnawat01/CDC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/manuvishnawat01/CDC/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/manuvishnawat01/CDC/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/0509-fibonacci-number) |
@@ -543,6 +545,7 @@
 | [0436-find-right-interval](https://github.com/manuvishnawat01/CDC/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/manuvishnawat01/CDC/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/manuvishnawat01/CDC/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manuvishnawat01/CDC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
