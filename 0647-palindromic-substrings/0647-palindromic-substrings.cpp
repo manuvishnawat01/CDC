@@ -1,23 +1,24 @@
 class Solution {
 public:
-    int countPalindromes(string &s, int left, int right) {
-        int count = 0;
-        while(left >= 0 && right < s.size() && s[left] == s[right]){
-            count++;
-            left--;
-            right++;
+    bool isPalindrome(string &s, int l, int r){
+        while(l < r){
+            if(s[l] != s[r]) return false;
+            l++;
+            r--;
         }
-        return count;
+        return true;
     }
 
     int countSubstrings(string s){
         int n = s.size();
-        int ans = 0;
+        int count = 0;
 
-        for(int i = 0; i < n; i++){
-            ans += countPalindromes(s, i, i);
-            ans += countPalindromes(s, i, i + 1);
+        for(int i = 0; i < n; i++) {
+            for(int j = i; j < n; j++) {
+                if(isPalindrome(s, i, j))
+                    count++;
+            }
         }
-        return ans;
+        return count;
     }
 };
