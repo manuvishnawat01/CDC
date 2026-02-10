@@ -174,6 +174,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/manuvishnawat01/CDC/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manuvishnawat01/CDC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/manuvishnawat01/CDC/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manuvishnawat01/CDC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
@@ -465,6 +466,7 @@
 | [0932-beautiful-array](https://github.com/manuvishnawat01/CDC/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0948-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manuvishnawat01/CDC/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
@@ -492,6 +494,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manuvishnawat01/CDC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manuvishnawat01/CDC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
 ## Linked List
 |  |
@@ -749,6 +752,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -1027,6 +1031,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manuvishnawat01/CDC/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
+| [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
 | ------- |
