@@ -43,6 +43,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manuvishnawat01/CDC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manuvishnawat01/CDC/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -243,6 +244,7 @@
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manuvishnawat01/CDC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manuvishnawat01/CDC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manuvishnawat01/CDC/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manuvishnawat01/CDC/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
