@@ -96,6 +96,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manuvishnawat01/CDC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/manuvishnawat01/CDC/tree/master/0746-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/manuvishnawat01/CDC/tree/master/0792-binary-search) |
@@ -289,6 +290,7 @@
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
@@ -304,6 +306,7 @@
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
