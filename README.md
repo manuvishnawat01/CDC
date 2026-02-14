@@ -86,6 +86,7 @@
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/manuvishnawat01/CDC/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/manuvishnawat01/CDC/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0540-single-element-in-a-sorted-array) |
@@ -289,6 +290,7 @@
 | [0234-palindrome-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/manuvishnawat01/CDC/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
@@ -307,6 +309,7 @@
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/manuvishnawat01/CDC/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/manuvishnawat01/CDC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
@@ -729,6 +732,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/manuvishnawat01/CDC/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
