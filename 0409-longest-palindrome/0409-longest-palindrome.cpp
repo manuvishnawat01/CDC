@@ -1,15 +1,20 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        int oddCount = 0;
-        unordered_map<char, int> ump;
-        for(char ch : s) {
-            ump[ch]++;
-            if (ump[ch] % 2 == 1) oddCount++;
-            else oddCount--;
+        unordered_map<char,int> mp;
+        for(auto m : s){
+            mp[m]++;
         }
-        if (oddCount > 1)  return s.length() - oddCount + 1;
-
-        return s.length();
+        int count = 0;
+        bool flag = true;
+        for(auto m : mp){
+            if(m.second % 2 == 0) count = count+m.second;
+            else{
+                count = count + m.second-1;
+                flag = false;
+            }
+        }
+        if(flag == false) count++;
+        return count;
     }
 };
