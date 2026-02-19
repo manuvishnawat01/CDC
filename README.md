@@ -33,6 +33,7 @@
 | [0074-search-a-2d-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manuvishnawat01/CDC/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manuvishnawat01/CDC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0088-merge-sorted-array) |
@@ -483,6 +484,7 @@
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -614,6 +616,7 @@
 | [0051-n-queens](https://github.com/manuvishnawat01/CDC/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/manuvishnawat01/CDC/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/manuvishnawat01/CDC/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -630,6 +633,7 @@
 | [0038-count-and-say](https://github.com/manuvishnawat01/CDC/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
@@ -1002,6 +1006,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/manuvishnawat01/CDC/tree/master/0100-same-tree) |
