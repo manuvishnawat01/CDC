@@ -297,6 +297,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/manuvishnawat01/CDC/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -662,6 +663,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
+| [0856-score-of-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/manuvishnawat01/CDC/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manuvishnawat01/CDC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0944-delete-columns-to-make-sorted) |
