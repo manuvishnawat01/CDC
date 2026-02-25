@@ -279,6 +279,7 @@
 | [0020-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manuvishnawat01/CDC/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/manuvishnawat01/CDC/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manuvishnawat01/CDC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manuvishnawat01/CDC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -638,6 +639,7 @@
 | [0038-count-and-say](https://github.com/manuvishnawat01/CDC/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/manuvishnawat01/CDC/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
