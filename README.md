@@ -674,6 +674,7 @@
 | [1328-break-a-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/1328-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manuvishnawat01/CDC/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manuvishnawat01/CDC/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manuvishnawat01/CDC/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -826,6 +827,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manuvishnawat01/CDC/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
