@@ -1085,6 +1085,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/manuvishnawat01/CDC/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/manuvishnawat01/CDC/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0619-biggest-single-number) |
 | [1757-recyclable-and-low-fat-products](https://github.com/manuvishnawat01/CDC/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
