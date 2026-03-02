@@ -133,6 +133,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manuvishnawat01/CDC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
@@ -492,6 +493,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manuvishnawat01/CDC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Prefix Sum
@@ -827,6 +829,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1328-break-a-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/1328-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manuvishnawat01/CDC/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
