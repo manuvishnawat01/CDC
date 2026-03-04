@@ -135,6 +135,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manuvishnawat01/CDC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
@@ -494,6 +495,7 @@
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Prefix Sum
