@@ -1095,6 +1095,7 @@
 | [0584-find-customer-referee](https://github.com/manuvishnawat01/CDC/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/manuvishnawat01/CDC/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/manuvishnawat01/CDC/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/manuvishnawat01/CDC/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/manuvishnawat01/CDC/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/manuvishnawat01/CDC/tree/master/1280-students-and-examinations) |
