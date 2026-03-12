@@ -8,31 +8,35 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-
 class Solution {
 public:
-    
-    ListNode* reverseList(ListNode* head) {
-            ListNode* prev = nullptr;
-            ListNode* curr = head;
-            while (curr != nullptr) {
-                ListNode* next_node = curr->next;
-                curr->next = prev;
-                prev = curr;
-                curr = next_node;
-            }
-            return prev;
-    }
     int pairSum(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while(fast!=NULL && fast!=NULL){
-            slow = slow->next;
-            fast = fast->next->next;
+        int count = 0;
+        ListNode* temp = head;
+        while(temp){
+            count++;
+            temp = temp->next;
         }
- 
-    ListNode* head2 = reverseList(slow);
+
+        count = count/2;
+        int middle = count;
+        ListNode* head2 = head;
+        while(middle--){
+            head2 = head2->next;
+        }
+
+    ListNode* prev = nullptr;
+    ListNode* current = head2;
+    ListNode* next = nullptr; 
+
+    while (current != nullptr) {
+        next = current->next;
+        current->next = prev; 
+        prev = current;      
+        current = next;   
+    }
+    head2 = prev;
+
 
     int sum = 0;
         while(head2 != NULL){
@@ -40,7 +44,7 @@ public:
             sum = max(sum,curr);
             head = head->next;
             head2 = head2->next;
-            }
+        }
         return sum;
     }
 };
