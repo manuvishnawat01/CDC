@@ -4,24 +4,33 @@ public:
 
         if(!head || left == right) return head;
 
-        ListNode dummy(0);
-        dummy.next = head;
-
-        ListNode* prev = &dummy;
+        ListNode* curr = head;
+        ListNode* prev = NULL;
 
         for(int i = 1; i < left; i++){
-            prev = prev->next;
+            prev = curr;
+            curr = curr->next;
         }
 
-        ListNode* curr = prev->next;
+        ListNode* con = prev;
+        ListNode* tail = curr;
 
-        for(int i = 0; i < right-left; i++){
-            ListNode* temp = curr->next;
-            curr->next = temp->next;
-            temp->next = prev->next;
-            prev->next = temp;
+        ListNode* next = NULL;
+
+        for(int i = 0; i <= right-left; i++){
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        return dummy.next;
+        if(con != NULL)
+            con->next = prev;
+        else
+            head = prev;
+
+        tail->next = curr;
+
+        return head;
     }
 };
