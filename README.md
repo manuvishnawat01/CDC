@@ -875,6 +875,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -924,6 +925,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1012,6 +1014,7 @@
 | [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
+| [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Interactive
@@ -1046,6 +1049,7 @@
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
