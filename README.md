@@ -142,6 +142,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manuvishnawat01/CDC/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
@@ -634,6 +635,7 @@
 | [0113-path-sum-ii](https://github.com/manuvishnawat01/CDC/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -684,6 +686,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manuvishnawat01/CDC/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manuvishnawat01/CDC/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manuvishnawat01/CDC/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manuvishnawat01/CDC/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -772,6 +775,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
