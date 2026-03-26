@@ -226,6 +226,7 @@
 | [0455-assign-cookies](https://github.com/manuvishnawat01/CDC/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/manuvishnawat01/CDC/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/manuvishnawat01/CDC/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/0908-middle-of-the-linked-list) |
@@ -674,6 +675,7 @@
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/manuvishnawat01/CDC/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/manuvishnawat01/CDC/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/manuvishnawat01/CDC/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/manuvishnawat01/CDC/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
@@ -765,6 +767,7 @@
 | [0500-keyboard-row](https://github.com/manuvishnawat01/CDC/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manuvishnawat01/CDC/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/manuvishnawat01/CDC/tree/master/0567-permutation-in-string) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0791-custom-sort-string](https://github.com/manuvishnawat01/CDC/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
@@ -1008,6 +1011,7 @@
 | [0219-contains-duplicate-ii](https://github.com/manuvishnawat01/CDC/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/manuvishnawat01/CDC/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/manuvishnawat01/CDC/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
