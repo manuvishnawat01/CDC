@@ -43,6 +43,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manuvishnawat01/CDC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/manuvishnawat01/CDC/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manuvishnawat01/CDC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manuvishnawat01/CDC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -257,6 +258,7 @@
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manuvishnawat01/CDC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manuvishnawat01/CDC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manuvishnawat01/CDC/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manuvishnawat01/CDC/tree/master/0213-house-robber-ii) |
@@ -659,6 +661,7 @@
 | [0071-simplify-path](https://github.com/manuvishnawat01/CDC/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/manuvishnawat01/CDC/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/manuvishnawat01/CDC/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/manuvishnawat01/CDC/tree/master/0205-isomorphic-strings) |
@@ -712,12 +715,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manuvishnawat01/CDC/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manuvishnawat01/CDC/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
@@ -744,6 +749,7 @@
 | [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/manuvishnawat01/CDC/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/manuvishnawat01/CDC/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/manuvishnawat01/CDC/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manuvishnawat01/CDC/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manuvishnawat01/CDC/tree/master/0160-intersection-of-two-linked-lists) |
