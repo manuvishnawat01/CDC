@@ -101,6 +101,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manuvishnawat01/CDC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/manuvishnawat01/CDC/tree/master/0720-longest-word-in-dictionary) |
+| [0724-find-pivot-index](https://github.com/manuvishnawat01/CDC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/manuvishnawat01/CDC/tree/master/0746-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
@@ -517,6 +518,7 @@
 | [0525-contiguous-array](https://github.com/manuvishnawat01/CDC/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manuvishnawat01/CDC/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/manuvishnawat01/CDC/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
