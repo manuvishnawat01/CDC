@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/manuvishnawat01/CDC/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manuvishnawat01/CDC/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/manuvishnawat01/CDC/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
@@ -497,6 +498,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/manuvishnawat01/CDC/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/manuvishnawat01/CDC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0074-search-a-2d-matrix) |
@@ -816,6 +818,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manuvishnawat01/CDC/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/manuvishnawat01/CDC/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
