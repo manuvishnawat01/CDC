@@ -624,6 +624,7 @@
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manuvishnawat01/CDC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manuvishnawat01/CDC/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -709,6 +710,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/manuvishnawat01/CDC/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [3636-check-balanced-string](https://github.com/manuvishnawat01/CDC/tree/master/3636-check-balanced-string) |
@@ -802,6 +804,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manuvishnawat01/CDC/tree/master/3242-count-elements-with-maximum-frequency) |
