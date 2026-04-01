@@ -165,6 +165,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/manuvishnawat01/CDC/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2906-construct-product-matrix](https://github.com/manuvishnawat01/CDC/tree/master/2906-construct-product-matrix) |
@@ -320,6 +321,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2487-remove-nodes-from-linked-list) |
+| [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -628,6 +630,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
@@ -833,6 +836,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/manuvishnawat01/CDC/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
