@@ -360,6 +360,7 @@
 | [0326-power-of-three](https://github.com/manuvishnawat01/CDC/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manuvishnawat01/CDC/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/manuvishnawat01/CDC/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/manuvishnawat01/CDC/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
@@ -1057,6 +1058,7 @@
 | [0226-invert-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/manuvishnawat01/CDC/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/manuvishnawat01/CDC/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/manuvishnawat01/CDC/tree/master/0365-water-and-jug-problem) |
 | [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1090,6 +1092,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/manuvishnawat01/CDC/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/manuvishnawat01/CDC/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/manuvishnawat01/CDC/tree/master/0365-water-and-jug-problem) |
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/manuvishnawat01/CDC/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/0543-diameter-of-binary-tree) |
