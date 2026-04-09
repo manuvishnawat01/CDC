@@ -1,48 +1,57 @@
-
 class Solution {
 public:
-
     int minOperations(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size(), m = nums2.size();
 
-        int n1 = nums1.size();
-        int n2 = nums2.size(); 
-        
-        int sum1 = accumulate(nums1.begin(),nums1.end(),0);
-        int sum2 = accumulate(nums2.begin(),nums2.end(),0); 
+        int running_sum1 = 0, running_sum2 = 0;
 
-        priority_queue<int>pq;
-
-        int req = abs(sum1-sum2);
-        int cnt = 0;
-
-        if(sum1>sum2)
-        {
-           for(int i = 0;i<n1;++i) pq.push(nums1[i]-1);
-        
-           for(int i = 0;i<n2;++i) pq.push(6-nums2[i]);
-    
+        for (int i = 0; i < n; i++){
+            running_sum1 += nums1[i];
         }
 
-        else
-        {
-           for(int i = 0;i<n2;++i) pq.push(nums2[i]-1);
-           
-           for(int i = 0;i<n1;++i) pq.push(6-nums1[i]);
-           
+        for (int i = 0; i < m; i++){
+            running_sum2 += nums2[i];
         }
 
-        while(pq.top() > 0)
-        {
-            if(req <= 0) break;
-
-            int top = pq.top();
-            pq.pop();
-            req -= top;
-            cnt++;  
+        if (running_sum1 == running_sum2){
+            return 0;
         }
 
-        if(req > 0) return -1;
+        vector<int> smaller_num, larger_num;
 
-        return cnt;
+        if (running_sum1 < running_sum2){
+            smaller_num = nums1;
+            larger_num = nums2;
+        } else {
+            smaller_num = nums2;
+            larger_num = nums1;
+        }
+
+        vector<int> result;
+
+        for (int i: smaller_num){
+            result.push_back(6-i);
+        }
+
+        for (int i: larger_num){
+            result.push_back(i-1);
+        }
+
+        sort(result.begin(),result.end());
+        reverse(result.begin(),result.end());
+
+        int diff = abs(running_sum1-running_sum2);
+
+        int count = 0;
+
+        for (int r: result){
+            diff -= r;
+            count += 1;
+            if (diff <= 0){
+                return count;
+            }
+        }
+
+        return -1;
     }
 };
