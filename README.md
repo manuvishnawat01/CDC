@@ -99,6 +99,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0665-non-decreasing-array](https://github.com/manuvishnawat01/CDC/tree/master/0665-non-decreasing-array) |
+| [0682-baseball-game](https://github.com/manuvishnawat01/CDC/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/manuvishnawat01/CDC/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manuvishnawat01/CDC/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -310,6 +311,7 @@
 | [0496-next-greater-element-i](https://github.com/manuvishnawat01/CDC/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/manuvishnawat01/CDC/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/manuvishnawat01/CDC/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/manuvishnawat01/CDC/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/manuvishnawat01/CDC/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/manuvishnawat01/CDC/tree/master/0856-score-of-parentheses) |
@@ -831,6 +833,7 @@
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/manuvishnawat01/CDC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/manuvishnawat01/CDC/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/manuvishnawat01/CDC/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manuvishnawat01/CDC/tree/master/1441-build-an-array-with-stack-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manuvishnawat01/CDC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
