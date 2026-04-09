@@ -145,6 +145,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -807,6 +808,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -879,6 +881,7 @@
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manuvishnawat01/CDC/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -1024,6 +1027,7 @@
 | [1051-height-checker](https://github.com/manuvishnawat01/CDC/tree/master/1051-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manuvishnawat01/CDC/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manuvishnawat01/CDC/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manuvishnawat01/CDC/tree/master/3242-count-elements-with-maximum-frequency) |
