@@ -193,6 +193,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manuvishnawat01/CDC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/manuvishnawat01/CDC/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manuvishnawat01/CDC/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manuvishnawat01/CDC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
@@ -826,6 +827,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manuvishnawat01/CDC/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3719-longest-balanced-subarray-i](https://github.com/manuvishnawat01/CDC/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manuvishnawat01/CDC/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
