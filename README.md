@@ -162,6 +162,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
+| [2463-minimum-total-distance-traveled](https://github.com/manuvishnawat01/CDC/tree/master/2463-minimum-total-distance-traveled) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manuvishnawat01/CDC/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -290,6 +291,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manuvishnawat01/CDC/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/manuvishnawat01/CDC/tree/master/2463-minimum-total-distance-traveled) |
 ## Stack
 |  |
 | ------- |
@@ -633,6 +635,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2463-minimum-total-distance-traveled](https://github.com/manuvishnawat01/CDC/tree/master/2463-minimum-total-distance-traveled) |
 | [2502-sort-the-people](https://github.com/manuvishnawat01/CDC/tree/master/2502-sort-the-people) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
