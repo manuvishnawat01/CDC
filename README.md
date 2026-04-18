@@ -413,6 +413,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3783-mirror-distance-of-an-integer](https://github.com/manuvishnawat01/CDC/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manuvishnawat01/CDC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
