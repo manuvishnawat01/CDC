@@ -148,6 +148,7 @@
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manuvishnawat01/CDC/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/manuvishnawat01/CDC/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/manuvishnawat01/CDC/tree/master/1980-find-unique-binary-string) |
@@ -245,6 +246,7 @@
 | [0985-bag-of-tokens](https://github.com/manuvishnawat01/CDC/tree/master/0985-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/manuvishnawat01/CDC/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manuvishnawat01/CDC/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/manuvishnawat01/CDC/tree/master/1894-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -482,6 +484,7 @@
 | [0907-koko-eating-bananas](https://github.com/manuvishnawat01/CDC/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manuvishnawat01/CDC/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
