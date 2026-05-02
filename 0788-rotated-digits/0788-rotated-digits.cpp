@@ -1,22 +1,32 @@
 class Solution {
 public:
     int rotatedDigits(int n) {
-        int cnt = 0;
-        for(int i = 1 ; i <= n ; i ++){
-            int check = i;
+        int count = 0;
+        
+        for (int num = 1; num <= n; num++) {
+            int x = num;
             bool valid = true;
             bool changed = false;
-            while(check > 0 && valid){
-                int digit = check % 10;
-                if(digit == 3 || digit == 4 || digit == 7) {
+            
+            while (x > 0) {
+                int digit = x % 10;
+                
+                if (digit == 3 || digit == 4 || digit == 7) {
                     valid = false;
-                } else if(digit == 2 || digit == 5 || digit == 6 || digit == 9) {
+                    break;
+                }
+                
+                if (digit == 2 || digit == 5 || digit == 6 || digit == 9) {
                     changed = true;
                 }
-                check /= 10;
+                
+                x /= 10;
             }
-            if(valid && changed) cnt ++;
+            
+            if (valid && changed) {
+                count++;
+            }
         }
-        return cnt;
+        return count;
     }
 };
