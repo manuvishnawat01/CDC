@@ -142,6 +142,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/manuvishnawat01/CDC/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manuvishnawat01/CDC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
@@ -529,6 +530,7 @@
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manuvishnawat01/CDC/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manuvishnawat01/CDC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/manuvishnawat01/CDC/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/manuvishnawat01/CDC/tree/master/2047-find-a-peak-element-ii) |
@@ -1085,6 +1087,7 @@
 | [0617-merge-two-binary-trees](https://github.com/manuvishnawat01/CDC/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -1125,6 +1128,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/manuvishnawat01/CDC/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/manuvishnawat01/CDC/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/manuvishnawat01/CDC/tree/master/1367-linked-list-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -1194,4 +1198,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manuvishnawat01/CDC/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
