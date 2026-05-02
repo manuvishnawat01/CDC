@@ -2,21 +2,21 @@ class Solution {
 public:
     int maxRotateFunction(vector<int>& nums) {
         int n = nums.size();
-        int sum=0;
-        int F = 0;
-        
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-            F+=i*nums[i];
+        int sum = 0, f0 = 0;
+
+        for(int i = 0; i < n; i++) {
+            sum += nums[i];
+            f0 += nums[i] * i;
         }
 
-        int result = F;
+        int maxi = f0, fi;
 
-        for(int k=0;k<=n-1;k++){
-            int newF=F + sum - n*nums[n-1-k];
-            result=max(result,newF);
-            F=newF;
+        for(int i = 0; i < n; i++) {
+            fi = f0 + sum - nums[n - i - 1] * n;
+            maxi = max(maxi, fi);
+            f0 = fi;
         }
-        return result;
+
+        return maxi;
     }
 };
