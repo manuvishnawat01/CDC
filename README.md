@@ -287,6 +287,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manuvishnawat01/CDC/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/manuvishnawat01/CDC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/manuvishnawat01/CDC/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/manuvishnawat01/CDC/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/manuvishnawat01/CDC/tree/master/0792-number-of-matching-subsequences) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -384,6 +385,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/manuvishnawat01/CDC/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/manuvishnawat01/CDC/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/manuvishnawat01/CDC/tree/master/0795-k-th-symbol-in-grammar) |
 | [0932-beautiful-array](https://github.com/manuvishnawat01/CDC/tree/master/0932-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
