@@ -76,6 +76,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/manuvishnawat01/CDC/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/manuvishnawat01/CDC/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/manuvishnawat01/CDC/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/manuvishnawat01/CDC/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/manuvishnawat01/CDC/tree/master/0419-battleships-in-a-board) |
@@ -279,6 +280,7 @@
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/manuvishnawat01/CDC/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/manuvishnawat01/CDC/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/manuvishnawat01/CDC/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/manuvishnawat01/CDC/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manuvishnawat01/CDC/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/manuvishnawat01/CDC/tree/master/0494-target-sum) |
@@ -373,6 +375,7 @@
 | [0365-water-and-jug-problem](https://github.com/manuvishnawat01/CDC/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/manuvishnawat01/CDC/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/manuvishnawat01/CDC/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/manuvishnawat01/CDC/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/manuvishnawat01/CDC/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/manuvishnawat01/CDC/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/manuvishnawat01/CDC/tree/master/0445-add-two-numbers-ii) |
