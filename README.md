@@ -173,6 +173,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2751-robot-collisions](https://github.com/manuvishnawat01/CDC/tree/master/2751-robot-collisions) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/manuvishnawat01/CDC/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2906-construct-product-matrix](https://github.com/manuvishnawat01/CDC/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manuvishnawat01/CDC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -299,6 +300,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/manuvishnawat01/CDC/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/manuvishnawat01/CDC/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Stack
 |  |
 | ------- |
