@@ -204,6 +204,7 @@
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-score-of-a-split](https://github.com/manuvishnawat01/CDC/tree/master/3788-maximum-score-of-a-split) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manuvishnawat01/CDC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3921-score-validator](https://github.com/manuvishnawat01/CDC/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -750,6 +751,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
 | [3636-check-balanced-string](https://github.com/manuvishnawat01/CDC/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3921-score-validator](https://github.com/manuvishnawat01/CDC/tree/master/3921-score-validator) |
 ## Trie
 |  |
 | ------- |
@@ -873,6 +875,7 @@
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/manuvishnawat01/CDC/tree/master/3379-transformed-array) |
+| [3921-score-validator](https://github.com/manuvishnawat01/CDC/tree/master/3921-score-validator) |
 ## Design
 |  |
 | ------- |
