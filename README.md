@@ -268,6 +268,7 @@
 | [0055-jump-game](https://github.com/manuvishnawat01/CDC/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/manuvishnawat01/CDC/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/manuvishnawat01/CDC/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/manuvishnawat01/CDC/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/manuvishnawat01/CDC/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/manuvishnawat01/CDC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manuvishnawat01/CDC/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -692,6 +693,7 @@
 | [0049-group-anagrams](https://github.com/manuvishnawat01/CDC/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manuvishnawat01/CDC/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/manuvishnawat01/CDC/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/manuvishnawat01/CDC/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/manuvishnawat01/CDC/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/manuvishnawat01/CDC/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/manuvishnawat01/CDC/tree/master/0125-valid-palindrome) |
