@@ -749,6 +749,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/manuvishnawat01/CDC/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/manuvishnawat01/CDC/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3636-check-balanced-string](https://github.com/manuvishnawat01/CDC/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/manuvishnawat01/CDC/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3921-score-validator](https://github.com/manuvishnawat01/CDC/tree/master/3921-score-validator) |
@@ -844,6 +845,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manuvishnawat01/CDC/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manuvishnawat01/CDC/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/manuvishnawat01/CDC/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/manuvishnawat01/CDC/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manuvishnawat01/CDC/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manuvishnawat01/CDC/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/manuvishnawat01/CDC/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
