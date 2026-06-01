@@ -159,6 +159,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/manuvishnawat01/CDC/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manuvishnawat01/CDC/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manuvishnawat01/CDC/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manuvishnawat01/CDC/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -650,6 +651,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manuvishnawat01/CDC/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manuvishnawat01/CDC/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manuvishnawat01/CDC/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/manuvishnawat01/CDC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manuvishnawat01/CDC/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -916,6 +918,7 @@
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/manuvishnawat01/CDC/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1829-maximum-units-on-a-truck](https://github.com/manuvishnawat01/CDC/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manuvishnawat01/CDC/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manuvishnawat01/CDC/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manuvishnawat01/CDC/tree/master/3074-apple-redistribution-into-boxes) |
