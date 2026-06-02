@@ -197,6 +197,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manuvishnawat01/CDC/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/manuvishnawat01/CDC/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manuvishnawat01/CDC/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/manuvishnawat01/CDC/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/manuvishnawat01/CDC/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -260,6 +261,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manuvishnawat01/CDC/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manuvishnawat01/CDC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/manuvishnawat01/CDC/tree/master/2294-minimum-time-to-complete-trips) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/manuvishnawat01/CDC/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manuvishnawat01/CDC/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -668,6 +671,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/manuvishnawat01/CDC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manuvishnawat01/CDC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/manuvishnawat01/CDC/tree/master/3226-minimum-number-game) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manuvishnawat01/CDC/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
@@ -923,6 +927,7 @@
 | [2756-buy-two-chocolates](https://github.com/manuvishnawat01/CDC/tree/master/2756-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/manuvishnawat01/CDC/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manuvishnawat01/CDC/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Geometry
 |  |
 | ------- |
