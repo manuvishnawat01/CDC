@@ -1,32 +1,26 @@
 class Solution {
 public:
-    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration,
-                          vector<int>& waterStartTime, vector<int>& waterDuration) {
-        int landFirstFinishTime = calculateEarliestFinish(landStartTime, landDuration,
-                                                           waterStartTime, waterDuration);
-        
-        int waterFirstFinishTime = calculateEarliestFinish(waterStartTime, waterDuration,
-                                                            landStartTime, landDuration);
-        
-        return min(landFirstFinishTime, waterFirstFinishTime);
+    int earliestFinishTime(vector<int>& landOpen, vector<int>& landTime,
+                           vector<int>& waterOpen, vector<int>& waterTime) {
+        int landThenWater = getMinFinish(landOpen, landTime, waterOpen, waterTime);
+        int waterThenLand = getMinFinish(waterOpen, waterTime, landOpen, landTime);
+        return min(landThenWater, waterThenLand);
     }
-    
+
 private:
-    int calculateEarliestFinish(vector<int>& firstSegmentStart, vector<int>& firstSegmentDuration,
-                                vector<int>& secondSegmentStart, vector<int>& secondSegmentDuration) {
-        int earliestFirstSegmentEnd = INT_MAX;
-        for (int i = 0; i < firstSegmentStart.size(); ++i) {
-            int currentEndTime = firstSegmentStart[i] + firstSegmentDuration[i];
-            earliestFirstSegmentEnd = min(earliestFirstSegmentEnd, currentEndTime);
+    int getMinFinish(vector<int>& firstOpen, vector<int>& firstTime,
+                     vector<int>& secondOpen, vector<int>& secondTime) {
+        int firstDone = INT_MAX;
+        for (int i = 0; i < firstOpen.size(); ++i) {
+            firstDone = min(firstDone, firstOpen[i] + firstTime[i]);
         }
-        
-        int overallEarliestFinish = INT_MAX;
-        for (int i = 0; i < secondSegmentStart.size(); ++i) {
-            int actualSecondStart = max(earliestFirstSegmentEnd, secondSegmentStart[i]);
-            int totalFinishTime = actualSecondStart + secondSegmentDuration[i];
-            overallEarliestFinish = min(overallEarliestFinish, totalFinishTime);
+
+        int answer = INT_MAX;
+        for (int i = 0; i < secondOpen.size(); ++i) {
+            int secondStart = max(firstDone, secondOpen[i]);
+            answer = min(answer, secondStart + secondTime[i]);
         }
-        
-        return overallEarliestFinish;
+
+        return answer;
     }
 };
