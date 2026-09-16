@@ -306,6 +306,7 @@
 | [1013-fibonacci-number](https://github.com/manuvishnawat01/CDC/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manuvishnawat01/CDC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manuvishnawat01/CDC/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manuvishnawat01/CDC/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manuvishnawat01/CDC/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/manuvishnawat01/CDC/tree/master/2054-two-best-non-overlapping-events) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/manuvishnawat01/CDC/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -417,6 +418,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manuvishnawat01/CDC/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/manuvishnawat01/CDC/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manuvishnawat01/CDC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manuvishnawat01/CDC/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/manuvishnawat01/CDC/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manuvishnawat01/CDC/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/manuvishnawat01/CDC/tree/master/1925-count-square-sum-triples) |
@@ -563,6 +565,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/manuvishnawat01/CDC/tree/master/1046-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/manuvishnawat01/CDC/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/manuvishnawat01/CDC/tree/master/1603-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manuvishnawat01/CDC/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manuvishnawat01/CDC/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/manuvishnawat01/CDC/tree/master/2906-construct-product-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/manuvishnawat01/CDC/tree/master/3311-ant-on-the-boundary) |
@@ -1235,4 +1238,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/manuvishnawat01/CDC/tree/master/1559-detect-cycles-in-2d-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/manuvishnawat01/CDC/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
