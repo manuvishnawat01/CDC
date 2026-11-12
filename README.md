@@ -439,6 +439,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/manuvishnawat01/CDC/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/manuvishnawat01/CDC/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manuvishnawat01/CDC/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manuvishnawat01/CDC/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manuvishnawat01/CDC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -939,6 +940,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/manuvishnawat01/CDC/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manuvishnawat01/CDC/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manuvishnawat01/CDC/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manuvishnawat01/CDC/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
 | ------- |
